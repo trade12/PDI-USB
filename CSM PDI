@@ -1,0 +1,217 @@
+##CSM USB
+
+{
+    "name": "Kieran's USB",
+    "packages": [
+        {
+            "id": "com.sn_cs_sm_request",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.pa.customer_service",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.sn_csm_mobile",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.sn_cs_sm",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.cs_base_extension",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.sn_customerservice",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.csm_workspace_components",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.install_base",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.csm_action_status",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.pa.cs.context_sensitive_analytics",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.csm_time_recording",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.kb_product_entitlements",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.customerservice.demo",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.csm_contributor_user",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.incident_assignment_workbench_demo",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.household",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.sn_majorissue_mgt",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.sn_cs_social",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.sn_csm_case_digest",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.csm_case_types",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.csm_proxy_contacts",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.install_base_characteristics",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.case_assignment_workbench_demo",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.sn_csm_customer_central",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.sn_action_status",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "d60ef8120c627010f877468eabd9762d",
+            "load_demo_data": true,
+            "requested_version": "6.1.3",
+            "type": "application"
+        },
+        {
+            "id": "0d2a68487423d2ea6a2fc286780086a6",
+            "load_demo_data": true,
+            "requested_version": "26.2.1",
+            "type": "application"
+        },
+        {
+            "id": "dc91fc455cf70ad5a792a8a37d683783",
+            "load_demo_data": true,
+            "requested_version": "1.4.6",
+            "type": "application"
+        },
+        {
+            "id": "1c53ea81531d21108845ddeeff7b12d8",
+            "load_demo_data": true,
+            "requested_version": "7.0.0",
+            "type": "application"
+        },
+        {
+            "id": "0d2383dd53687510b256ddeeff7b12b8",
+            "load_demo_data": true,
+            "requested_version": "6.1.1",
+            "type": "application"
+        },
+        {
+            "id": "com.snc.sdlc.agile.multi_task",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.sdlc.agile.2.0",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.sdlc.agile.2.0.atf",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.change_management.change_success_score",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        },
+        {
+            "id": "com.snc.change_management.success_probability",
+            "load_demo_data": true,
+            "requested_version": "",
+            "type": "plugin"
+        }
+    ]
+}
