@@ -108,6 +108,64 @@
       "notes": "Microsoft SCCM Spoke for IntegrationHub",
       "load_demo_data": true,
       "type": "plugin"
+    },
+    {
+      "id": "com.snc.procurement",
+      "notes": "ITSM Procurement",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.change_management.risk_assessment",
+      "notes": "Change Management - Risk Assessment",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.change_management.mass_update_ci",
+      "notes": "Change Management - Mass Update CI",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.sn_cim",
+      "notes": "Continual Improvement Management (CIM)",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.sn_cim_atf",
+      "notes": "Continual Improvement Management Automated Tests",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "sn_dpm",
+      "notes": "Digital Portfolio Management",
+      "requested_version" : "6.1.9",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_service_builder",
+      "notes": "Service Builder",
+      "requested_version" : "3.3.0",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_itsm_vendor",
+      "notes": "Vendor Mgmt",
+      "requested_version" : "3.5.0",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_itsm_vendor_pa",
+      "notes": "PA Vendor Mgmt",
+      "requested_version" : "2.0.1",
+      "load_demo_data": true,
+      "type": "application"
     }
   ]
 }
