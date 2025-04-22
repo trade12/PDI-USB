@@ -1,0 +1,117 @@
+{
+  "name": "Kieran's Core Platform",
+  "packages": [
+    {
+      "id": "com.snc.knowledge_kcs_capabilities",
+      "notes": "KCS Roles",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.pa.premium",
+      "notes": "PA Premium",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.sdlc.agile.multi_task",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.sdlc.agile.2.0",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.sdlc.scrum_program",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_scrum_dashboard",
+      "requested_version" : "1.4.4",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_sgc_central",
+      "notes": "SGC Central",
+      "requested_version" : "2.0.0",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_solarwinds_inte",
+      "notes": "SGC SW",
+      "requested_version" : "2.5.0",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_ex_sp_pro",
+      "notes": "ESC Pro",
+      "requested_version" : "34.0.3",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_sg_azure_integ",
+      "notes": "SGC Azure",
+      "requested_version" : "1.11.1",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_jamf_integrate",
+      "notes": "JAMF",
+      "requested_version" : "2.14.1",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_getwell",
+      "notes": "CSDM & CMDB Dashboards",
+      "requested_version" : "4.1.1",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_kpi_composer",
+      "notes": "KPI Composer",
+      "requested_version" : "4.2.8",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_ai_search_admin",
+      "requested_version" : "4.1.12",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_ais_admin_tools",
+      "requested_version" : "6.0.10",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_sd_itsm",
+      "requested_version" : "8.0.3",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "sn_sccm_integrate",
+      "requested_version" : "3.6.0",
+      "load_demo_data": true,
+      "type": "application"
+    },
+    {
+      "id": "x_lixgh_leanix_int",
+      "requested_version" : "1.1.4",
+      "load_demo_data": true,
+      "type": "application"
+    }
+  ]
+}
