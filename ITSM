@@ -1,0 +1,113 @@
+{
+  "name": "Kieran's USB",
+  "packages": [
+    {
+      "id": "com.snc.change_management.success_probability",
+      "notes": "Change Management - Success Probability",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.pa.sla.overview",
+      "notes": "Service Level Management PA Dashboard",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.pa.request2",
+      "notes": "Performance Analytics - Content Pack - Request Management (Requests)",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.pa.problem.context_sensitive_analytics",
+      "notes": "Performance Analytics - Context Sensitive Analytics for Problem Management",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.glideapp.cs.sm_topic_blocks",
+      "notes": "Service Management Virtual Agent Topic Blocks",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.pa.incident.mim",
+      "notes": "Performance Analytics - Content Pack for Major Incident Management",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.change_management.change_success_score",
+      "notes": "Change Management - Change Success Score",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.pa.spotlight.change",
+      "notes": "Performance Analytics - Spotlight - Change Spotlight content pack",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.pa.spotlight.request",
+      "notes": "Performance Analytics - Spotlight - Request spotlight content pack",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.pa.spotlight.problem",
+      "notes": "Performance Analytics - Spotlight - Problem spotlight content pack",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.pa.spotlight.incident",
+      "notes": "Performance Analytics - Spotlight - Incident Spotlight content pack",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.glide.awa.agent_affinity",
+      "notes": "Advanced Work Assignment - Agent Affinity",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.pa.awa",
+      "notes": "Performance Analytics - Content Pack - Advanced Work Assignment",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.appointment_booking_demo",
+      "notes": "Appointment Booking Demo Data",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.matching_rule",
+      "notes": "Resource Matching Engine",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.appointment_booking",
+      "notes": "Appointment Booking",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.snc.task_activity",
+      "notes": "Task Activities",
+      "load_demo_data": true,
+      "type": "plugin"
+    },
+    {
+      "id": "com.sn.sccm.spoke",
+      "notes": "Microsoft SCCM Spoke for IntegrationHub",
+      "load_demo_data": true,
+      "type": "plugin"
+    }
+  ]
+}
